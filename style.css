@@ -64,3 +64,6 @@ border-radius: 5px;
     border-image: linear-gradient(rgba(255, 0, 0, 0.527), tomato);
     border-image-slice: 1; 
 }
+footer p{
+    text-align: center;
+}
