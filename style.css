@@ -1,0 +1,39 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+
+
+}
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+.hire-button{
+    color: black;
+    font-weight: 900;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+background-image: linear-gradient(orange, #0ace7c);
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.bottom-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
